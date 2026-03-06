@@ -24,7 +24,7 @@ def get_embedder():
 def get_memory_index():
     global _memory_index
     if _memory_index is None:
-        api_key = os.getenv("PINECONE_API_KEY")
+        api_key = os.getenv("PINECONE_API_KEY") or st.secrets["PINECONE_API_KEY"]
         if not api_key:
             return None
         pc = Pinecone(api_key=api_key)
