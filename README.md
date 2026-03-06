@@ -160,5 +160,4 @@ math-mentor/
 │   └── groq_client.py          # Groq API wrapper
 ├── requirements.txt
 ├── .env.example
-└── architecture.mermaid
 ```
