@@ -24,7 +24,7 @@ def get_embedder():
 def get_index():
     global _index
     if _index is None:
-        api_key = os.getenv("PINECONE_API_KEY")
+        api_key = os.getenv("PINECONE_API_KEY") or st.secrets["PINECONE_API_KEY"]
         if not api_key:
             raise ValueError("PINECONE_API_KEY not set in environment")
         pc = Pinecone(api_key=api_key)
