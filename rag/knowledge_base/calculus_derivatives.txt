@@ -1,0 +1,25 @@
+CALCULUS - DERIVATIVES AND RULES
+
+Basic Derivatives:
+1. d/dx(c) = 0 (constant)
+2. d/dx(x^n) = nx^(n-1) (power rule)
+3. d/dx(e^x) = e^x
+4. d/dx(a^x) = a^x ln(a)
+5. d/dx(ln x) = 1/x
+6. d/dx(sin x) = cos x
+7. d/dx(cos x) = -sin x
+8. d/dx(tan x) = sec^2(x)
+9. d/dx(cot x) = -csc^2(x)
+10. d/dx(sec x) = sec x tan x
+11. d/dx(csc x) = -csc x cot x
+
+Rules:
+12. Product rule: d/dx(uv) = u'v + uv'
+13. Quotient rule: d/dx(u/v) = (u'v - uv')/v^2
+14. Chain rule: d/dx(f(g(x))) = f'(g(x)) x g'(x)
+15. Sum/Difference: (f+g)' = f'+g'
+
+Applications:
+16. Critical points: f'(x) = 0 or undefined
+17. f''(x) > 0 means local minimum; f''(x) < 0 means local maximum
+18. Increasing when f'(x) > 0; Decreasing when f'(x) < 0

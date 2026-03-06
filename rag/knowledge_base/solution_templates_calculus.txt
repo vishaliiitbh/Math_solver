@@ -1,0 +1,25 @@
+SOLUTION TEMPLATES - CALCULUS
+
+Template: Finding Maxima/Minima
+Step 1: Find f'(x)
+Step 2: Set f'(x) = 0, solve for critical points
+Step 3: Find f''(x)
+Step 4: If f''(c) > 0 then local min at c; if f''(c) < 0 then local max at c
+Step 5: Check boundary points if domain is closed interval
+Step 6: Compare values to find global max/min
+
+Template: Evaluating Limits
+Step 1: Try direct substitution first
+Step 2: If 0/0 or inf/inf, apply L'Hopital's rule
+Step 3: If factoring possible, factor and cancel
+Step 4: For trigonometric limits, use standard limit lim sin(x)/x = 1
+Step 5: For limits at infinity, divide by highest power of x
+
+Template: Optimization Word Problem
+Step 1: Define variables clearly
+Step 2: Write objective function (what to maximize/minimize)
+Step 3: Write constraint equation(s)
+Step 4: Express objective in one variable using constraint
+Step 5: Differentiate and set equal to 0
+Step 6: Verify it's max/min using second derivative test
+Step 7: Check domain constraints (e.g. length > 0)

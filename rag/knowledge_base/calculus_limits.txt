@@ -1,0 +1,23 @@
+CALCULUS - LIMITS
+
+Standard Limits:
+1. lim(x->0) sin(x)/x = 1
+2. lim(x->0) (1-cos x)/x = 0
+3. lim(x->0) (e^x-1)/x = 1
+4. lim(x->0) (a^x-1)/x = ln(a)
+5. lim(x->0) ln(1+x)/x = 1
+6. lim(x->inf) (1+1/x)^x = e
+7. lim(x->inf) (1+a/x)^x = e^a
+
+L'Hopital's Rule:
+- If limit gives 0/0 or inf/inf, then lim f(x)/g(x) = lim f'(x)/g'(x)
+
+Limit Laws:
+- lim[f(x)+g(x)] = lim f(x) + lim g(x)
+- lim[f(x)xg(x)] = lim f(x) x lim g(x)
+- lim[f(x)/g(x)] = lim f(x) / lim g(x), provided lim g(x) != 0
+- Squeeze theorem: if g(x) <= f(x) <= h(x) and lim g = lim h = L, then lim f = L
+
+Continuity:
+- f is continuous at x=a if: lim(x->a) f(x) = f(a)
+- Intermediate Value Theorem: if f is continuous on [a,b] and f(a)<k<f(b), then there exists c in (a,b) with f(c)=k

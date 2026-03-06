@@ -1,0 +1,25 @@
+SOLUTION TEMPLATES - PROBABILITY
+
+Template: Basic Probability
+Step 1: Identify sample space S and find total count |S|
+Step 2: Identify event A and find favorable count |A|
+Step 3: P(A) = |A|/|S| (if equally likely outcomes)
+Step 4: Check: 0 <= P(A) <= 1
+
+Template: Conditional Probability
+Step 1: Identify events A and B
+Step 2: Find P(A intersect B) - outcomes where both occur
+Step 3: Find P(B) - outcomes where B occurs
+Step 4: Apply P(A|B) = P(A intersect B)/P(B)
+
+Template: Bayes Theorem
+Step 1: Identify prior probabilities P(H1), P(H2), ...
+Step 2: Identify likelihoods P(E|H1), P(E|H2), ...
+Step 3: Find P(E) = sum P(E|Hi)*P(Hi) using total probability theorem
+Step 4: Apply Bayes: P(Hi|E) = P(E|Hi)*P(Hi)/P(E)
+
+Template: Counting / Combinatorics
+Step 1: Determine if order matters (permutation) or not (combination)
+Step 2: Check for repetitions
+Step 3: Apply nPr = n!/(n-r)! or nCr = n!/(r!(n-r)!)
+Step 4: For complex problems, use multiplication principle

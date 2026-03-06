@@ -1,0 +1,80 @@
+[
+  {
+    "id": "3143fb62",
+    "timestamp": "2026-03-04T19:51:30.432394",
+    "raw_input": "x-y=1\nx+y=5\nso x=?",
+    "problem_text": "Solve for x: x - y = 1, x + y = 5",
+    "topic": "algebra",
+    "answer": "x = 3",
+    "key_formula": "Elimination method for solving systems of linear equations",
+    "is_correct": true,
+    "user_feedback": "correct",
+    "key_insight": "",
+    "memory_tip": ""
+  },
+  {
+    "id": "d6ea7a56",
+    "timestamp": "2026-03-04T19:58:40.937801",
+    "raw_input": "The value of sin 120 . sin48\" sin54\" (A) 1/8 (B) 1/6 (C) 1/4 (D) 1/2",
+    "problem_text": "Find the value of sin(120\u00b0) * sin(48\u00b0) * sin(54\u00b0)",
+    "topic": "other",
+    "answer": "1/8",
+    "key_formula": "Product-to-sum identities for sine",
+    "is_correct": true,
+    "user_feedback": "correct",
+    "key_insight": "",
+    "memory_tip": ""
+  },
+  {
+    "id": "a3523f17",
+    "timestamp": "2026-03-05T17:58:50.413323",
+    "raw_input": "Consider the matrix Let the transpose of matrix X be denoted by XT  Then the number of 3 X 3 invertible matrices Q with integer entries, such that Q-1 = QT and PQ = QP_",
+    "problem_text": "Consider the matrix X and its transpose XT. Find the number of 3x3 invertible matrices Q with integer entries, such that Q^-1 = QT and PQ = QP.",
+    "topic": "linear_algebra",
+    "answer": "48",
+    "key_formula": "Properties of orthogonal matrices and determinants",
+    "is_correct": true,
+    "user_feedback": "correct",
+    "key_insight": "",
+    "memory_tip": ""
+  },
+  {
+    "id": "932f96a6",
+    "timestamp": "2026-03-05T17:58:53.893542",
+    "raw_input": "Consider the matrix Let the transpose of matrix X be denoted by XT  Then the number of 3 X 3 invertible matrices Q with integer entries, such that Q-1 = QT and PQ = QP_",
+    "problem_text": "Consider the matrix X and its transpose XT. Find the number of 3x3 invertible matrices Q with integer entries, such that Q^-1 = QT and PQ = QP.",
+    "topic": "linear_algebra",
+    "answer": "48",
+    "key_formula": "Properties of orthogonal matrices and determinants",
+    "is_correct": true,
+    "user_feedback": "incorrect",
+    "key_insight": "",
+    "memory_tip": ""
+  },
+  {
+    "id": "3153abd8",
+    "timestamp": "2026-03-05T18:01:10.300018",
+    "raw_input": "Question 6: The number of relations, defined on the set {a, b, C, d}, which are both reflexive and symmetric, is equal to: (A) 1024 (B) 64 (C) 16 (D) 256",
+    "problem_text": "The number of relations defined on the set {a, b, c, d} which are both reflexive and symmetric is equal to",
+    "topic": "other",
+    "answer": "64",
+    "key_formula": "2^n, where n is the number of symmetric pair units",
+    "is_correct": true,
+    "user_feedback": "correct",
+    "key_insight": "",
+    "memory_tip": ""
+  },
+  {
+    "id": "d33626cf",
+    "timestamp": "2026-03-05T18:38:56.026822",
+    "raw_input": "Question 6: The number of relations, defined on the set {a, b, C, d}, which are both reflexive and symmetric, is equal to: (A) 1024 (B) 64 (C) 16 (D) 256",
+    "problem_text": "The number of relations defined on the set {a, b, c, d} which are both reflexive and symmetric is equal to",
+    "topic": "other",
+    "answer": "64",
+    "key_formula": "2^n, where n is the number of distinct pairs of elements in the set, considering symmetry",
+    "is_correct": true,
+    "user_feedback": "correct",
+    "key_insight": "",
+    "memory_tip": ""
+  }
+]

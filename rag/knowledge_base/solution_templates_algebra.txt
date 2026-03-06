@@ -1,0 +1,25 @@
+SOLUTION TEMPLATES - ALGEBRA
+
+Template: Solving Quadratic Equation
+Step 1: Write in standard form ax^2 + bx + c = 0
+Step 2: Calculate discriminant D = b^2 - 4ac
+Step 3: If D < 0, roots are complex: x = (-b +/- i*sqrt(|D|))/(2a)
+Step 4: If D >= 0, real roots: x = (-b +/- sqrt(D))/(2a)
+Step 5: Verify by substituting back
+
+Template: Finding Range/Domain
+Step 1: For domain - identify restrictions (denominator!=0, log arg>0, sqrt arg>=0)
+Step 2: For range - let y = f(x), solve for x in terms of y
+Step 3: Find values of y for which x is real and in domain
+
+Template: Arithmetic/Geometric Progressions
+Step 1: Identify if AP (constant difference) or GP (constant ratio)
+Step 2: Find first term a and common difference d (or ratio r)
+Step 3: Use nth term formula to find specific terms
+Step 4: Use sum formula if needed
+
+Template: Inequalities
+Step 1: Move all terms to one side
+Step 2: Factor or find critical points where expression equals 0
+Step 3: Test signs in each interval
+Step 4: Write solution in interval notation

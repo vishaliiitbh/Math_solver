@@ -1,0 +1,26 @@
+COMMON MISTAKES IN JEE MATH
+
+Algebra Mistakes:
+1. sqrt(a^2+b^2) is NOT equal to a+b (cannot split square root over addition)
+2. (a+b)^2 is NOT equal to a^2+b^2 (forgot middle term 2ab)
+3. Division by zero: always check denominator is not zero
+4. log(a+b) is NOT equal to log(a) + log(b)
+5. log(ab) = log(a) + log(b) is correct
+6. Cancelling: (x^2-1)/(x-1) = x+1 only when x is not equal to 1
+
+Calculus Mistakes:
+7. d/dx(uv) is NOT u'v' (must use product rule: u'v + uv')
+8. Integral of uv dx is NOT (integral u dx)(integral v dx)
+9. Chain rule: d/dx(sin(x^2)) = cos(x^2)*2x, NOT just cos(x^2)
+10. Forgetting +C in indefinite integrals
+
+Probability Mistakes:
+11. P(A and B) is NOT P(A)*P(B) unless A and B are independent
+12. Not checking: sum of all probabilities must equal 1
+13. Confusion between permutations and combinations
+14. Order matters in permutations, not in combinations
+
+Limits:
+15. 0/0 is indeterminate, not zero - apply L'Hopital's rule
+16. inf/inf is also indeterminate - apply L'Hopital's rule
+17. 1^inf is an indeterminate form
